@@ -1,12 +1,12 @@
 ---
-title: JupyterLab
+title: Repo Test Source
 emoji: 💻🐳
 colorFrom: gray
 colorTo: green
 sdk: docker
 pinned: false
 tags:
-  - jupyterlab
+- jupyterlab
 suggested_storage: small
 ---
 
